@@ -17,7 +17,7 @@ Cairn is **unofficial**: not affiliated with, endorsed by or maintained by Monas
 
 An entry to LaunchPad Hacks 2026 by Jason Liang and ZIzi821.
 
-**Static demo:** https://jason-d-e.github.io/cairn/ shows the cover, the library, the evaluation and fourteen real answers recorded on 10 November 2026. It has no server, so it cannot answer new questions; to ask your own, run Cairn on your machine (below).
+**Static demo:** https://zizi821.github.io/cairn/ shows the cover, the library, the evaluation and fourteen real answers recorded on 10 November 2026. It has no server, so it cannot answer new questions; to ask your own, run Cairn on your machine (below).
 
 ## What it does
 

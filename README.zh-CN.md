@@ -19,7 +19,7 @@ Cairn 是**非官方**项目：与 Monash University 无隶属关系，也未获
 
 LaunchPad Hacks 2026 参赛作品，作者 Jason Liang 和 ZIzi821。
 
-**静态演示：** https://jason-d-e.github.io/cairn/ 展示封面、资料库、检索评测，以及 2026 年 11 月 10 日录下的 14 个真实回答。它没有服务器，不能回答新问题；想自己提问，请在你的电脑上运行 Cairn（见下文）。
+**静态演示：** https://zizi821.github.io/cairn/ 展示封面、资料库、检索评测，以及 2026 年 11 月 10 日录下的 14 个真实回答。它没有服务器，不能回答新问题；想自己提问，请在你的电脑上运行 Cairn（见下文）。
 
 ## 功能
 
